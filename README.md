@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wu Tang Clan Name Generator with Features
 A web application with CRUD functionality that allows users to answer 5 questions to produce a sample Wu Tang Clan name. This web application keeps track of all of the generated names people have gotten if you choose to save your name to the database. This app allows you to edit your Wu Tang Name and it allows you to delete your generated name from the database if you wish to do so.
 
@@ -10,7 +9,7 @@ A web application with CRUD functionality that allows users to answer 5 question
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, JavaScript, Node.JS, Express, Mongodb
 
 The project focused on creating client side JavaScript, server side JavaScript, CSS for styling, and an EJS file to render the html page. This project also uses express for building the server and mongodb database to store the collections and documents containing the data.
 
